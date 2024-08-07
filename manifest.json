@@ -1,0 +1,13 @@
+{
+    "name": "Chrome Extension",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "author": "Shantanu Bhosale",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "My Extension"
+    },
+    "icons": {
+        "64": "logo.jpg"
+    }
+}
